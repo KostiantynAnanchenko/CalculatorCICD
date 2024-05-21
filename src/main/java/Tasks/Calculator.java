@@ -8,9 +8,9 @@ public class Calculator {
         }
         int result =0;
         for(int i=0;i<=n;i++) {
-            result-=i;
+            result+=i;
         }
-        System.out.println("New feature");
+        System.out.println("New feature2222");
         return result;
     }
 
