@@ -14,6 +14,10 @@ public class Calculator {
         System.out.println("New feature");
         System.out.println("New feature");
         System.out.println("New feature");
+        System.out.println("New feature");
+        System.out.println("New feature");
+        System.out.println("New feature");
+        System.out.println("New feature");
         return result;
     }
 
