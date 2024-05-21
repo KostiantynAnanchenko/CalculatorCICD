@@ -10,6 +10,7 @@ public class Calculator {
         for(int i=0;i<=n;i++) {
             result+=i;
         }
+        System.out.println("New feature");
         return result;
     }
 
